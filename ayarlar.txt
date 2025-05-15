@@ -1,2 +1,2 @@
 kullanici_adi=Ömer Faruk Çelik
-tema=acik
+tema=karanlik
